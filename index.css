@@ -6,7 +6,7 @@ body{
 
 /* banner section start */
 .banner{
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("/photo/Banner\ Image.png");
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("photo/Banner\ Image.png");
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
@@ -107,7 +107,7 @@ body{
 
 
 .wellcome{
-    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("/photo/Vectorrr.png");
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("photo/Vectorrr.png");
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
@@ -330,7 +330,7 @@ body{
 
 
 .main{
-   background-image: url("/photo/Rectangle\ 2.png");
+   background-image: url("photo/Rectangle\ 2.png");
    background-repeat: no-repeat;
    background-position: bottom;
    width: 1320px;
@@ -346,7 +346,7 @@ body{
    
 }
 .discount-3{
-        background-image: url("/photo/Rectangle\ 1.png");
+        background-image: url("photo/Rectangle\ 1.png");
         background-repeat: no-repeat;
         background-position: right;
         width: 429px;
